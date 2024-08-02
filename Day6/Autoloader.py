@@ -49,7 +49,7 @@
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC select * from databricksworkspace.bronze.Autoloader
+# MAGIC select * from databricksworkspace.bronze.Autoloader where id=1
 
 # COMMAND ----------
 
